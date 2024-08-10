@@ -1,0 +1,99 @@
+{
+  "NTProvider": {
+    "types": {
+      "/FMSInfo": "FMSInfo",
+      "/SmartDashboard/Back Leftcommand turn": "Mechanism2d",
+      "/SmartDashboard/Back Leftreal turn": "Mechanism2d",
+      "/SmartDashboard/Back Rightcommand turn": "Mechanism2d",
+      "/SmartDashboard/Back Rightreal turn": "Mechanism2d",
+      "/SmartDashboard/Field": "Field2d",
+      "/SmartDashboard/Front Leftcommand turn": "Mechanism2d",
+      "/SmartDashboard/Front Leftreal turn": "Mechanism2d",
+      "/SmartDashboard/Front Rightcommand turn": "Mechanism2d",
+      "/SmartDashboard/Front Rightreal turn": "Mechanism2d"
+    },
+    "windows": {
+      "/SmartDashboard/Back Leftcommand turn": {
+        "window": {
+          "visible": true
+        }
+      },
+      "/SmartDashboard/Back Leftreal turn": {
+        "window": {
+          "visible": true
+        }
+      },
+      "/SmartDashboard/Back Rightcommand turn": {
+        "window": {
+          "visible": true
+        }
+      },
+      "/SmartDashboard/Back Rightreal turn": {
+        "window": {
+          "visible": true
+        }
+      },
+      "/SmartDashboard/Field": {
+        "Robot": {
+          "arrowSize": 100,
+          "style": "Box/Image"
+        },
+        "bottom": 1476,
+        "height": 8.210550308227539,
+        "left": 150,
+        "right": 2961,
+        "top": 79,
+        "units": "meters",
+        "width": 16.541748046875,
+        "window": {
+          "visible": true
+        }
+      },
+      "/SmartDashboard/Front Leftcommand turn": {
+        "window": {
+          "visible": true
+        }
+      },
+      "/SmartDashboard/Front Leftreal turn": {
+        "window": {
+          "visible": true
+        }
+      },
+      "/SmartDashboard/Front Rightcommand turn": {
+        "window": {
+          "visible": true
+        }
+      },
+      "/SmartDashboard/Front Rightreal turn": {
+        "window": {
+          "visible": true
+        }
+      }
+    }
+  },
+  "NetworkTables": {
+    "transitory": {
+      "Shuffleboard": {
+        ".metadata": {
+          "open": true
+        },
+        "open": true
+      },
+      "SmartDashboard": {
+        "open": true
+      }
+    }
+  },
+  "NetworkTables Info": {
+    "Clients": {
+      "open": true
+    },
+    "Connections": {
+      "open": true
+    },
+    "Server": {
+      "open": true
+    },
+    "visible": true
+  }
+}
